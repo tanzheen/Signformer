@@ -2,7 +2,6 @@
 <p align="left">
 <a href="" alt="arXiv">
     <img src="https://img.shields.io/badge/arXiv-2405.02730-b31b1b.svg?style=flat" /></a>
-<a href="https://www.lens-ai.net/" alt="Lens_AI"> /></a>
 </p>
 
 
