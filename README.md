@@ -1,4 +1,4 @@
-# Official Code of Signformer is all you need
+# Official Code of Signformer is all you need: Towards Edge AI for Sign Language
 <p align="left">
 <a href="https://arxiv.org/abs/2411.12901" alt="arXiv">
     <img src="https://img.shields.io/badge/arXiv-2405.02730-b31b1b.svg?style=flat" /></a>
