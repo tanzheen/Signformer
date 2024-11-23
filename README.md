@@ -2,7 +2,9 @@
 <p align="left">
 <a href="https://arxiv.org/abs/2411.12901" alt="arXiv">
     <img src="https://img.shields.io/badge/arXiv-2405.02730-b31b1b.svg?style=flat" /></a>
+    [![PWC](https://img.shields.io/endpoint.svg?url=https://paperswithcode.com/badge/signformer-is-all-you-need-towards-edge-ai-1/gloss-free-sign-language-translation-on)](https://paperswithcode.com/sota/gloss-free-sign-language-translation-on?p=signformer-is-all-you-need-towards-edge-ai-1)
 </p>
+	
 
 
  
