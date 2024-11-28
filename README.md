@@ -29,3 +29,14 @@
   `python -m main train [CONFIG PATH]` 
 ### Test
   `python -m main test [CONFIG PATH] --ckpt [CHECKPOINT PATH]` 
+
+## BIBTEX
+@misc{yang2024signformerneededgeai,
+      title={Signformer is all you need: Towards Edge AI for Sign Language}, 
+      author={Eta Yang},
+      year={2024},
+      eprint={2411.12901},
+      archivePrefix={arXiv},
+      primaryClass={cs.CL},
+      url={https://arxiv.org/abs/2411.12901}, 
+}
