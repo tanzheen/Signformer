@@ -31,6 +31,7 @@
   `python -m main test [CONFIG PATH] --ckpt [CHECKPOINT PATH]` 
 
 ## BIBTEX
+```bibtex
 @misc{yang2024signformerneededgeai,
       title={Signformer is all you need: Towards Edge AI for Sign Language}, 
       author={Eta Yang},
@@ -40,3 +41,4 @@
       primaryClass={cs.CL},
       url={https://arxiv.org/abs/2411.12901}, 
 }
+```
