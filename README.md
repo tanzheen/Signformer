@@ -32,13 +32,10 @@
 
 ## BIBTEX
 ```bibtex
-@misc{yang2024signformerneededgeai,
+@article{eta2024signformer,
       title={Signformer is all you need: Towards Edge AI for Sign Language}, 
       author={Eta Yang},
       year={2024},
-      eprint={2411.12901},
-      archivePrefix={arXiv},
-      primaryClass={cs.CL},
-      url={https://arxiv.org/abs/2411.12901}, 
+      journal={arXiv preprint arXiv:2411.12901}, 
 }
 ```
