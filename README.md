@@ -7,9 +7,9 @@
 ![scheme](radar.jpg)
 ## Outline
 
-🚀 In this work, we present the World's 1st LLM-comparable "Small Language Model" for Sign Language Translation
+🚀 In this work, we present the World's 1st LLM-comparable "Small Language Model" as a from-scratch model for Sign Language Translation
 
-🚀 Signformer-Full achieves new 2nd place in Gloss-Free sign language translation leaderboard of 2024 as a from-scratch model
+🚀 Signformer-Full achieves new 2nd place in Gloss-Free sign language translation leaderboard of 2024 
 
 🥳 Signformer is the least parametric model across all scoreboards, Signformer-Feather of 0.57 Million achieves TOP5
 
