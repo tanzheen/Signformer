@@ -4,7 +4,14 @@
 [![arXiv](https://img.shields.io/badge/arXiv%20paper-2410.06940-b31b1b.svg)](https://arxiv.org/abs/2411.12901v1)&nbsp;
 [![PWC](https://img.shields.io/endpoint.svg?url=https://paperswithcode.com/badge/signformer-is-all-you-need-towards-edge-ai-1/gloss-free-sign-language-translation-on)](https://paperswithcode.com/sota/gloss-free-sign-language-translation-on?p=signformer-is-all-you-need-towards-edge-ai-1)
 
+![scheme](radar.jpg)
+## Outline
 
+🚀 In this work, we present the World's 1st LLM-comparable "Small Language Model" for Sign Language Translation
+
+🚀 Signformer-Full achieves new 2nd place in Gloss-Free sign language translation leaderboard of 2024
+
+🥳 Signformer is the least parametric model across all scoreboards, Signformer-Feather of 0.57 Million achieves TOP5
 
  
 ## Dataset and Feature Files Preparation
