@@ -1057,4 +1057,6 @@ if __name__ == "__main__":
     )
     args = parser.parse_args()
     os.environ["CUDA_VISIBLE_DEVICES"] = args.gpu_id
+    os.environ['TF_ENABLE_ONEDNN_OPTS'] = '0'
+    
     train(cfg_file=args.config)

@@ -1,0 +1,519 @@
+dev/11August_2010_Wednesday_tagesschau-2|und nun die wettervorhersage für morgen samstag den bergen .
+dev/11August_2010_Wednesday_tagesschau-3|am freitag ist es im norden und osten und im westen .
+dev/11August_2010_Wednesday_tagesschau-8|am dienstag ist es im norden und westen bleibt es windig .
+dev/25October_2010_Monday_tagesschau-22|am freitag ist es im norden und osten und am samstag im norden und osten und osten und osten und osten und osten und osten und osten und osten und
+dev/05May_2011_Thursday_tagesschau-25|und nun die wettervorhersage für morgen dienstag den fünfundzwanzigsten august .
+dev/15December_2010_Wednesday_tagesschau-40|im norden und osten und osten und osten und in der mitte und im osten .
+dev/10March_2011_Thursday_heute-51|und nun die wettervorhersage für morgen dienstag den bergen auch im westen und westen und westen und osten und osten und osten und osten und osten und auch auch noch
+dev/14August_2009_Friday_tagesschau-72|morgen temperaturen zwischen minus zwei grad am oberrhein und minus vier grad .
+dev/26January_2010_Tuesday_heute-107|und nun die wettervorhersage für morgen sonntag den fünfundzwanzigsten .
+dev/12February_2010_Friday_tagesschau-125|morgen dienstag wird es am freitag und es wird es auch am alpenrand .
+dev/12February_2010_Friday_tagesschau-126|am samstag regnet es im osten und osten und im osten und osten und osten und osten und osten .
+dev/01November_2010_Monday_tagesschau-140|im norden und osten und osten und osten und in der mitte und im osten und osten .
+dev/28November_2011_Monday_tagesschau-165|im osten und osten und osten und osten und in der mitte und in der mitte und in der mitte .
+dev/28November_2011_Monday_tagesschau-168|heute nacht temperaturen von minus vier grad im breisgau bis minus vier grad .
+dev/28November_2011_Monday_tagesschau-172|am freitag ist es im westen und osten und es wird es auch mal mal sonne .
+dev/24November_2011_Thursday_heute-222|im norden und osten und nordwesten auch mal wolken und im osten und osten und osten und osten .
+dev/24November_2011_Thursday_heute-223|im osten und osten und osten und in der nacht auch am alpenrand und im osten und osten und osten und osten und osten und osten und osten und osten
+dev/19October_2009_Monday_tagesschau-229|und nun die wettervorhersage für morgen dienstag den fünfundzwanzigsten juli .
+dev/12July_2010_Monday_heute-244|in der nacht gibt es im osten und osten und auch mal mehr wolken und im osten und westen .
+dev/21August_2011_Sunday_tagesschau-264|im osten und osten und osten und osten und in der mitte .
+dev/21August_2011_Sunday_tagesschau-265|im norden und nordwesten einzelne schauer und gewitter .
+dev/22November_2010_Monday_heute-279|im westen wird es auch im westen und westen auch mal ein paar tropfen .
+dev/14October_2010_Thursday_tagesschau-298|am freitag regnet es im osten und osten und im osten und osten und osten und osten und osten und osten und osten und osten und im osten und osten
+dev/14October_2010_Thursday_tagesschau-299|und nun die wettervorhersage für morgen samstag den bergen .
+dev/06April_2010_Tuesday_tagesschau-308|am sonntag ist es windig .
+dev/12May_2010_Wednesday_tagesschau-318|im osten und osten und osten und in der südosthälfte regen .
+dev/17April_2010_Saturday_tagesschau-396|und nun die wettervorhersage für morgen dienstag den bergen für morgen dienstag den bergen .
+dev/01October_2009_Thursday_tagesschau-417|morgen temperaturen von minus zwei grad an der ostsee und minus vier grad .
+dev/04May_2010_Tuesday_heute-453|in der nacht gibt es im osten und osten und in der nacht ist es im osten und osten und osten und osten und osten und osten und osten und
+dev/30January_2013_Wednesday_tagesschau-475|am freitag wird es auch morgen noch regen .
+dev/30January_2013_Wednesday_tagesschau-477|am samstag ist es im westen und westen und es wird es auch mal wolken .
+dev/14October_2009_Wednesday_tagesschau-529|im norden weht der wind schwach bis mäßig .
+dev/20November_2011_Sunday_tagesschau-536|und in der nacht ist es im osten und osten und osten und in der südosthälfte .
+dev/25February_2011_Friday_tagesschau-575|am freitag ist es wechselhaft und es wechselhaft .
+dev/18October_2010_Monday_heute-629|am samstag ist es im westen und westen .
+dev/18October_2010_Monday_heute-630|und nun die wettervorhersage für morgen sonntag den bergen .
+dev/06October_2010_Wednesday_tagesschau-632|im osten und westen und westen und in der mitte und im osten und westen und osten und osten und osten und osten und osten und osten und osten und
+dev/06October_2010_Wednesday_tagesschau-640|morgen temperaturen von minus vier grad im nordosten und minus vier grad .
+dev/04August_2011_Thursday_tagesschau-718|am freitag wird es wechselhaft und es wechselhaft und nun die wettervorhersage für morgen dienstag .
+dev/21October_2009_Wednesday_tagesschau-735|am tag regnet es im westen und osten und im osten und osten und osten und osten und osten und osten und osten und osten und osten und osten und
+dev/29May_2011_Sunday_tagesschau-764|schwacher wind weht schwach bis mäßig an der nordsee frisch .
+dev/19April_2010_Monday_heute-781|im osten und westen und westen und in der südosthälfte .
+dev/30August_2011_Tuesday_heute-783|ihnen einen schönen abend und machen sie es gut .
+dev/30August_2011_Tuesday_heute-784|am tag wird es heute nacht noch etwas regen im westen und osten und osten und osten und osten und osten und osten und osten und auch im westen und
+dev/04December_2009_Friday_tagesschau-841|am tag mäßiger wind weht schwach bis mäßig an der nordsee bis mäßig an der nordsee und wind aus west bis südwest .
+dev/22January_2010_Friday_tagesschau-907|im norden und osten und nordwesten gebietsweise regen im osten und osten und osten und osten und osten und osten und osten und osten und osten und osten und osten
+dev/28September_2012_Friday_tagesschau-916|im norden und osten und osten und osten und in der südosthälfte .
+dev/28September_2012_Friday_tagesschau-917|am freitag ist es wechselhaft .
+dev/28September_2012_Friday_tagesschau-922|im norden und osten und nordwesten teilweise kräftig im norden und osten und osten und osten und osten und osten und osten und osten und osten und osten und osten
+dev/03February_2011_Thursday_tagesschau-938|am tag minus vier grad im osten und minus vier grad .
+dev/03February_2011_Thursday_tagesschau-939|morgen temperaturen zwischen minus vier grad am oberrhein und minus vier grad .
+dev/04April_2011_Monday_heute-965|und nun die wettervorhersage für morgen dienstag den fünfundzwanzigsten april .
+dev/04April_2011_Monday_heute-966|am tag minus fünf grad .
+dev/23November_2011_Wednesday_tagesschau-973|und nun die wettervorhersage für morgen dienstag den fünfundzwanzigsten juli .
+dev/23November_2011_Wednesday_tagesschau-980|im norden gibt es im norden und osten und osten und im norden und osten und osten und osten und osten und osten und osten und osten und osten und
+dev/23November_2011_Wednesday_tagesschau-984|am sonntag wird es wechselhaft und es windig .
+dev/19August_2010_Thursday_tagesschau-995|am freitag regnet es im norden und osten und es .
+dev/29October_2009_Thursday_tagesschau-1011|und nun die wettervorhersage für morgen dienstag den fünfundzwanzigsten juli .
+dev/06May_2010_Thursday_heute-1054|in der nacht scheint die sonne .
+dev/05October_2011_Wednesday_heute-1069|ihnen einen schönen abend und machen sie es gut .
+dev/23May_2011_Monday_tagesschau-1097|und in der nacht ist es im westen deutschlands für morgen früh .
+dev/19May_2010_Wednesday_heute-1119|im osten und westen und westen und in der südosthälfte auch mal sonne .
+dev/09August_2009_Sunday_tagesschau-1179|morgen wird es auch noch regen .
+dev/09August_2009_Sunday_tagesschau-1180|am sonntag ist es windig .
+dev/09August_2009_Sunday_tagesschau-1181|und in der nacht regnet es im osten und osten und osten und in der südosthälfte ist es .
+dev/09August_2009_Sunday_tagesschau-1182|und nun die wettervorhersage für morgen samstag den bergen auch schnee .
+dev/05July_2010_Monday_tagesschau-1200|am tag ist es meist freundlich und es meist freundlich .
+dev/20June_2011_Monday_tagesschau-1253|und in der nacht regnet es im osten und osten und osten und in der mitte und im osten .
+dev/21June_2011_Tuesday_tagesschau-1264|im norden und osten und osten und osten und in der mitte und im osten und osten .
+dev/12July_2011_Tuesday_heute-1274|und in der nacht ist es im westen und osten und osten und osten und in der mitte und osten und osten und osten und osten und osten und osten
+dev/12July_2011_Tuesday_heute-1279|und nun die wettervorhersage für morgen samstag den bergen im westen und osten und osten und osten und osten und osten und osten und osten und im westen und osten
+dev/12July_2011_Tuesday_heute-1280|am samstag ist es im westen und es gut .
+dev/12July_2011_Tuesday_heute-1281|und auch in der wind aus west bis südwest .
+dev/25May_2010_Tuesday_tagesschau-1294|heute nacht minus vier grad im osten und minus vier grad im breisgau .
+dev/18April_2011_Monday_tagesschau-1316|am tag im westen und westen und nun die wettervorhersage für morgen dienstag ist es im westen und osten und osten und osten und es auch im westen .
+dev/31January_2010_Sunday_tagesschau-1333|morgen temperaturen von der nordsee bis minus zwei grad im breisgau .
+dev/22August_2010_Sunday_tagesschau-1345|schwacher wind weht schwach bis mäßig an der nordsee frisch an der nordsee auch frisch .
+dev/02October_2009_Friday_tagesschau-1354|morgen wird es im westen und westen und morgen wird es auch wechselhaft .
+dev/02October_2009_Friday_tagesschau-1355|in der nacht ist es im osten und osten und in der mitte .
+dev/02October_2009_Friday_tagesschau-1362|am freitag regnet es im norden und osten und im osten und osten und osten und osten und osten und osten und osten und osten und im osten und osten
+dev/10January_2011_Monday_heute-1375|am freitag ist es im westen und osten und es wird es auch auch auch mal mehr mal wolken .
+dev/13August_2011_Saturday_tagesschau-1409|im norden und osten und nordwesten teilweise kräftig im norden und osten und osten und osten und osten und osten und osten und osten und osten und osten und osten
+dev/13August_2011_Saturday_tagesschau-1410|am tag mäßiger wind weht schwach bis mäßig an der nordsee .
+dev/23December_2010_Thursday_tagesschau-1430|und nun die wettervorhersage für morgen dienstag den fünfundzwanzigsten april .
+dev/10August_2010_Tuesday_heute-1455|am tag regnet es im osten und osten und im osten und osten und osten und osten und osten und minus fünf grad .
+dev/25January_2010_Monday_heute-1467|im osten und westen und westen und in der südosthälfte auch mal sonne mal wolken und im osten und osten und osten und osten und osten und osten und osten
+dev/30July_2010_Friday_tagesschau-1520|heute nacht minus vier grad an der ostsee und minus vier grad .
+dev/06December_2011_Tuesday_heute-1553|und auch in der wind aus west .
+dev/06December_2011_Tuesday_heute-1554|ihnen einen schönen abend und machen sie es gut .
+dev/19July_2009_Sunday_tagesschau-1568|am freitag wird es dann auch morgen noch regen .
+dev/28November_2011_Monday_heute-1587|morgen wird es dann auch am alpenrand und morgen früh im westen und osten und osten und osten und osten und osten und osten und im westen und osten und
+dev/07February_2011_Monday_tagesschau-1612|heute nacht gibt es im norden und osten und wind aus west .
+dev/07February_2011_Monday_tagesschau-1613|am tag regnet es im norden und osten und im norden und osten und osten und osten und osten und osten und osten und osten und wind weht schwach .
+dev/07April_2010_Wednesday_heute-1631|am tag ist es im osten und osten und im osten und osten und osten und osten und osten .
+dev/07April_2010_Wednesday_heute-1632|und nun die wettervorhersage für morgen sonntag den bergen .
+dev/03July_2011_Sunday_tagesschau-1673|am freitag wird es wechselhaft und es wechselhaft .
+dev/03July_2011_Sunday_tagesschau-1674|und nun die wettervorhersage für morgen samstag den vierten .
+dev/13April_2011_Wednesday_tagesschau-1683|im osten und osten und osten und osten und in der südosthälfte .
+dev/12January_2011_Wednesday_tagesschau-1732|heute nacht minus vier grad an der ostsee und minus vier grad .
+dev/09March_2011_Wednesday_heute-1742|im norden weht der wind schwach bis mäßig im norden weht er schwach bis mäßig im norden auch frisch .
+dev/20November_2010_Saturday_tagesschau-1823|am samstag ist es im norden und osten und im westen regen .
+dev/20November_2010_Saturday_tagesschau-1824|im osten und osten und osten und osten und in der mitte und im osten .
+dev/15February_2010_Monday_tagesschau-1843|im norden und nordwesten regen .
+dev/14July_2010_Wednesday_tagesschau-1865|am sonntag ist es wechselhaft und es meist freundlich .
+dev/14April_2010_Wednesday_heute-1879|ihnen einen schönen abend und machen sie es gut .
+dev/14April_2010_Wednesday_heute-1880|und nun die wettervorhersage für morgen samstag den zweiundzwanzigsten dezember .
+dev/14April_2010_Wednesday_heute-1881|und nun die wettervorhersage für morgen samstag den nächsten tagen wird es .
+dev/14April_2010_Wednesday_heute-1892|und nun die wettervorhersage für morgen samstag den fünfundzwanzigsten .
+dev/31May_2011_Tuesday_heute-1899|und nun die wettervorhersage für morgen tag den bergen im osten und osten und osten und osten und osten und osten und osten und osten und osten und im osten
+dev/28December_2011_Wednesday_tagesschau-1911|am tag regnet es im osten und osten und im osten und osten und osten und osten und osten und osten und osten und osten und gewitter .
+dev/09January_2010_Saturday_tagesschau-1919|und nun die wettervorhersage für morgen dienstag den fünfundzwanzigsten juli .
+dev/11May_2010_Tuesday_tagesschau-1960|und nun die wettervorhersage für morgen dienstag den fünfundzwanzigsten juli .
+dev/11May_2010_Tuesday_tagesschau-1964|im osten und osten und osten und in der südosthälfte fällt regen .
+dev/11May_2010_Tuesday_tagesschau-1971|am samstag im norden und nordwesten einzelne schauer und gewitter .
+dev/03July_2009_Friday_tagesschau-2003|am tag regnet es im osten und osten und in der südosthälfte regen .
+dev/03July_2009_Friday_tagesschau-2008|in der nacht regnet es im osten und osten und im osten und osten und osten und osten und osten und osten und osten und osten und osten und osten
+dev/02November_2010_Tuesday_tagesschau-2031|im osten und osten und osten und osten und im osten und osten und osten und osten und osten und osten und da .
+dev/02November_2010_Tuesday_tagesschau-2039|am freitag wird es dann auch mal wolken und die wettervorhersage für morgen dienstag .
+dev/22January_2011_Saturday_tagesschau-2080|schwacher wind weht schwach bis mäßig an der nordsee wind aus west .
+dev/22January_2011_Saturday_tagesschau-2082|am tag minus vier grad im breisgau bis minus vier grad im breisgau .
+dev/06July_2009_Monday_tagesschau-2109|am tag minus zwei grad im osten und minus vier grad .
+dev/22April_2010_Thursday_heute-2120|am tag regnet es im osten und osten und im osten und osten und osten und osten und osten und osten und osten und osten und osten und osten und
+dev/22April_2010_Thursday_heute-2124|und nun die wettervorhersage für morgen samstag den nächsten tagen .
+dev/22April_2010_Thursday_heute-2125|ihnen einen schönen abend und machen sie es gut .
+dev/17October_2009_Saturday_tagesschau-2127|heute nacht gibt es im osten und osten und in der mitte und im osten und osten und osten und osten und osten und osten und osten und osten und
+dev/17October_2009_Saturday_tagesschau-2133|und nun die wettervorhersage für morgen dienstag den bergen .
+dev/17October_2009_Saturday_tagesschau-2138|am freitag ist es im westen und westen und am samstag .
+dev/17October_2009_Saturday_tagesschau-2139|am tag ist es im osten und osten .
+dev/18November_2011_Friday_tagesschau-2143|am tag regnet es im norden und osten und in der mitte und im norden und osten und osten und osten und osten und osten und osten und osten und
+dev/27September_2009_Sunday_tagesschau-2169|im norden weht der wind schwach bis mäßig an der nordsee bis mäßig an der nordsee und wind aus west bis südwest .
+dev/27September_2009_Sunday_tagesschau-2170|heute nacht gibt es heute nacht im osten und osten .
+dev/06August_2010_Friday_tagesschau-2172|und nun die wettervorhersage für morgen dienstag den fünfundzwanzigsten juli .
+dev/01March_2011_Tuesday_tagesschau-2209|am samstag ist es im norden und westen .
+dev/01March_2011_Tuesday_tagesschau-2210|im norden und osten und osten und in der nacht .
+dev/01March_2011_Tuesday_tagesschau-2211|heute nacht gibt es im norden und osten und im norden und osten und osten und osten und osten und osten und osten und osten und wind aus west .
+dev/30December_2010_Thursday_tagesschau-2236|heute nacht minus vier grad im osten und minus vier grad im osten und osten und osten und osten und minus vier grad .
+dev/30October_2009_Friday_tagesschau-2275|und nun die wettervorhersage für morgen donnerstag den bergen weht er mäßig .
+dev/30October_2009_Friday_tagesschau-2276|heute nacht minus vier grad im osten und osten und an der ostsee und nun die wettervorhersage für morgen bis minus vier grad .
+dev/07January_2010_Thursday_tagesschau-2301|heute nacht werte zwischen minus fünf grad im osten und minus vier grad im norden und osten und osten und osten und osten und osten und minus vier grad im
+dev/07January_2010_Thursday_tagesschau-2302|am tag minus vier grad im nordosten und minus vier grad .
+dev/07June_2010_Monday_heute-2322|und nun die wettervorhersage für morgen dienstag den fünfundzwanzigsten juli .
+dev/07June_2010_Monday_heute-2327|im osten und osten und osten und in der nacht nur im osten und osten und osten und osten und osten und osten und minus fünf grad .
+dev/26September_2009_Saturday_tagesschau-2333|und nun die wettervorhersage für morgen dienstag den fünfundzwanzigsten april .
+dev/26September_2009_Saturday_tagesschau-2335|am tag regnet es im osten und osten und in der mitte .
+dev/26September_2009_Saturday_tagesschau-2342|heute nacht minus vier grad an der ostsee und minus vier grad .
+dev/26September_2009_Saturday_tagesschau-2343|am tag minus vier grad am oberrhein und minus vier grad .
+dev/12March_2011_Saturday_tagesschau-2455|am tag minus vier grad im osten und osten und minus vier grad .
+dev/15September_2010_Wednesday_heute-2476|und es wird es auch noch freundlicher .
+dev/10February_2010_Wednesday_tagesschau-2524|am sonntag ist es im osten und osten und es .
+dev/25November_2010_Thursday_tagesschau-2529|am tag regnet es im norden und osten und im osten und osten und osten und osten und osten und osten .
+dev/25November_2010_Thursday_tagesschau-2530|im norden und osten und osten und osten und in der mitte und im osten und osten .
+dev/25November_2010_Thursday_tagesschau-2536|am samstag im norden und westen und am alpenrand und am oberrhein .
+dev/12January_2010_Tuesday_heute-2545|im westen gibt es auch mal wolken und es wird auch im westen auch mal mehr wolken und es wird auch auch auch im westen auch auch auch auch auch
+dev/12January_2010_Tuesday_heute-2546|morgen wird es auch im westen und westen und es wird auch im westen auch regen .
+dev/09December_2009_Wednesday_tagesschau-2561|heute nacht minus vier grad an der ostsee und minus vier grad .
+dev/09December_2009_Wednesday_tagesschau-2562|heute nacht minus vier grad im osten und minus vier grad .
+dev/12July_2009_Sunday_tagesschau-2573|am tag ist es meist freundlich und es meist freundlich .
+dev/12July_2009_Sunday_tagesschau-2574|im norden und osten und nordwesten einzelne schauer .
+dev/06July_2010_Tuesday_tagesschau-2653|im norden und osten und nordwesten etwas regen .
+dev/06July_2010_Tuesday_tagesschau-2654|am tag ist es im westen und osten und es wird es auch mal sonne .
+dev/05January_2010_Tuesday_tagesschau-2672|heute nacht minus vier grad im nordosten bis minus vier grad .
+dev/19January_2011_Wednesday_heute-2680|im westen gibt es heute nacht im westen und osten und osten und in der nacht auch im osten und osten und osten und osten und osten und osten und
+dev/01October_2010_Friday_tagesschau-2691|und nun die wettervorhersage für morgen dienstag den fünfundzwanzigsten juli .
+dev/31January_2013_Thursday_tagesschau-2710|im norden und osten und osten und osten und im osten und osten und osten und osten und osten und osten und osten und osten und osten und osten und
+dev/02November_2010_Tuesday_heute-2742|ihnen einen schönen abend und machen sie es gut .
+dev/02November_2010_Tuesday_heute-2754|am tag im osten und osten und in der nacht nur am oberrhein .
+dev/01July_2011_Friday_tagesschau-2763|im norden und nordwesten bleibt es trocken und es meist freundlich .
+dev/01July_2011_Friday_tagesschau-2765|heute nacht minus vier grad an der ostsee und minus vier grad .
+dev/01July_2011_Friday_tagesschau-2766|am tag minus fünf grad im breisgau bis minus vier grad .
+dev/03August_2010_Tuesday_tagesschau-2776|und in der nacht gibt es im norden und osten und osten und gewitter .
+dev/26January_2010_Tuesday_tagesschau-2787|am tag regnet es im norden und osten und nun die wettervorhersage für längere zeit regen .
+dev/08February_2010_Monday_tagesschau-2796|und nun die wettervorhersage für morgen dienstag den fünfundzwanzigsten juli .
+dev/28January_2010_Thursday_tagesschau-2817|am freitag ist es im norden und osten und es im osten und osten und osten und osten .
+dev/05February_2010_Friday_tagesschau-2919|heute nacht minus vier grad im nordosten bis minus vier grad im breisgau .
+dev/05February_2010_Friday_tagesschau-2920|heute nacht minus vier grad an der ostsee und minus vier grad .
+dev/20September_2010_Monday_heute-2934|und auch am alpenrand und in der südosthälfte auch am alpenrand .
+dev/20September_2010_Monday_heute-2935|am tag wird es auch am alpenrand und es wird es auch .
+dev/29September_2012_Saturday_tagesschau-2966|am tag regnet es im osten und osten und im osten und osten und osten und osten und osten und osten und osten und osten und im osten und osten
+dev/29September_2012_Saturday_tagesschau-2967|am samstag ist es im westen und osten und es wird es auch mal sonne .
+dev/09August_2010_Monday_tagesschau-3000|im norden und osten und nordwesten regen .
+dev/09August_2010_Monday_tagesschau-3004|am freitag wird es wechselhaft und es wechselhaft und am sonntag ist es auch mal sonne .
+dev/07October_2012_Sunday_tagesschau-3026|in der nacht gibt es im osten und osten und in der mitte und in der mitte .
+dev/01December_2011_Thursday_heute-3058|in der nacht regnet es im osten und osten und im osten und osten und osten und osten .
+dev/01December_2011_Thursday_heute-3060|am tag im westen und osten und in der nacht im osten und osten und osten und osten und osten und osten und osten und osten und osten und osten
+dev/01December_2011_Thursday_heute-3061|im osten und osten und osten und in der nacht minus vier grad .
+dev/20April_2011_Wednesday_tagesschau-3084|im norden und osten und osten und osten und im osten und osten und osten und osten und osten und osten und osten und osten und osten und osten und
+dev/21April_2010_Wednesday_heute-3122|am tag scheint die sonne mal wolken und die sonne und es wird es auch im westen .
+dev/21April_2010_Wednesday_heute-3124|und nun die wettervorhersage für morgen sonntag den fünfundzwanzigsten .
+dev/05September_2010_Sunday_tagesschau-3132|in der nacht regnet es im osten und osten und in der südosthälfte wolken und sonne .
+dev/24May_2010_Monday_tagesschau-3142|heute nacht regnet es im norden und osten und im osten und osten und osten und osten und osten und osten .
+dev/20May_2010_Thursday_tagesschau-3151|und nun die wettervorhersage für morgen dienstag den fünfundzwanzigsten april .
+dev/20February_2011_Sunday_tagesschau-3164|und nun die wettervorhersage für morgen dienstag den fünfundzwanzigsten juli .
+dev/20February_2011_Sunday_tagesschau-3166|im osten und osten und osten und in der nacht .
+dev/20December_2010_Monday_tagesschau-3199|im norden und osten und osten und osten und in der nacht auch in der nacht auch in der nacht .
+dev/20December_2010_Monday_tagesschau-3204|im norden und osten und osten und osten und in der mitte und im osten und osten .
+dev/20December_2010_Monday_tagesschau-3205|im osten und osten und osten und osten und auch schnee .
+dev/20December_2010_Monday_tagesschau-3208|am tag minus vier grad im osten und minus vier grad .
+dev/26August_2009_Wednesday_tagesschau-3225|am freitag ist es im norden und osten und am freitag ist es auch mal wolken und im osten und osten und osten und osten und osten und osten und
+dev/27August_2009_Thursday_tagesschau-3276|im norden und nordwesten regen .
+dev/27August_2009_Thursday_tagesschau-3284|am sonntag ist es im osten und osten und es .
+dev/27August_2009_Thursday_tagesschau-3285|am sonntag im osten und südosten .
+dev/27August_2009_Thursday_tagesschau-3286|am freitag wird es wechselhaft und es wechselhaft und nun die wettervorhersage für morgen dienstag .
+dev/04July_2009_Saturday_tagesschau-3345|am freitag regnet es im norden und osten und am samstag im norden und osten und osten und osten und süden und süden und süden und süden und süden und
+dev/26April_2010_Monday_heute-3398|im osten und osten und osten und in der nacht minus vier grad .
+dev/23September_2010_Thursday_tagesschau-3444|heute nacht gibt es im osten und osten und in der nacht .
+dev/02September_2010_Thursday_heute-3456|im osten und osten und osten und in der nacht regnet es im osten und osten und osten und osten und osten und osten und osten und osten und osten
+dev/02September_2010_Thursday_heute-3457|und nun die wettervorhersage für morgen samstag den alpen .
+dev/25September_2010_Saturday_tagesschau-3480|und nun die wettervorhersage für morgen dienstag den fünfundzwanzigsten april .
+dev/02October_2012_Tuesday_heute-3494|heute nacht gibt es im osten und osten und im osten und osten und osten und osten und osten und osten und osten und osten und osten und osten und
+dev/11December_2009_Friday_tagesschau-3509|im osten und osten und osten und in der südosthälfte .
+dev/06January_2010_Wednesday_heute-3523|heute nacht gibt es im osten und osten und im osten und osten und osten und osten und osten .
+dev/06January_2010_Wednesday_heute-3525|morgen regnet es im osten und osten und im osten und osten und osten und osten und osten und auch regen .
+dev/06January_2010_Wednesday_heute-3530|und nun die wettervorhersage für morgen donnerstag den bergen auch schnee .
+dev/05April_2010_Monday_tagesschau-3546|und nun die wettervorhersage für morgen dienstag den fünfundzwanzigsten april .
+dev/20October_2009_Tuesday_tagesschau-3586|und nun die wettervorhersage für morgen dienstag den fünfundzwanzigsten juli .
+dev/20October_2009_Tuesday_tagesschau-3594|heute nacht regnet es im osten und osten und im osten und osten und osten und osten und osten .
+dev/20October_2009_Tuesday_tagesschau-3595|schwacher wind weht schwach bis mäßig an der nordsee auch frisch .
+dev/02December_2010_Thursday_tagesschau-3636|im osten und osten und osten und in der südosthälfte .
+dev/02December_2010_Thursday_tagesschau-3637|im norden und osten und osten und in der südosthälfte .
+dev/22November_2011_Tuesday_tagesschau-3647|und nun die wettervorhersage für morgen samstag den fünfundzwanzigsten april .
+dev/23April_2010_Friday_tagesschau-3667|heute nacht minus vier grad im breisgau bis minus vier grad im breisgau .
+dev/23April_2010_Friday_tagesschau-3668|am tag minus vier grad an der ostsee und minus vier grad .
+dev/30May_2011_Monday_heute-3677|am freitag wird es auch am alpenrand und es wird es auch am alpenrand .
+dev/24January_2011_Monday_tagesschau-3712|in der nacht gibt es heute nacht .
+dev/24January_2011_Monday_tagesschau-3720|schwacher bis mäßiger wind weht schwach bis mäßig an der nordsee bis mäßig .
+dev/23February_2011_Wednesday_heute-3780|ihnen einen schönen abend und machen sie es gut .
+dev/10August_2010_Tuesday_tagesschau-3865|heute nacht gibt es im norden und osten und im osten und osten und nordwesten .
+dev/25June_2010_Friday_tagesschau-3884|am tag minus vier grad im breisgau bis minus vier grad .
+dev/25June_2010_Friday_tagesschau-3887|am freitag ist es meist freundlich .
+dev/12September_2010_Sunday_tagesschau-3919|und nun die wettervorhersage für morgen dienstag den bergen .
+dev/08April_2010_Thursday_tagesschau-3949|und nun die wettervorhersage für morgen donnerstag den bergen auch in der mitte und im westen und westen und westen und westen und westen und westen und westen und westen
+dev/24April_2010_Saturday_tagesschau-3963|und nun die wettervorhersage für morgen samstag den vierten juli .
+dev/08January_2010_Friday_tagesschau-3984|am tag regnet es im westen und südosten noch etwas regen .
+dev/04May_2011_Wednesday_heute-3996|und nun die wettervorhersage für morgen dienstag den alpen und am oberrhein und im westen und westen und osten und osten und osten und osten und osten und osten und
+dev/08April_2010_Thursday_heute-4004|im osten und osten und osten und in der mitte und im osten und osten .
+dev/30September_2012_Sunday_tagesschau-4033|heute nacht gibt es heute nacht im osten und osten und in der nacht ist es im osten und osten und osten und osten und in der nacht .
+dev/30September_2012_Sunday_tagesschau-4037|am freitag ist es noch .
+dev/30September_2012_Sunday_tagesschau-4038|am samstag ist es wechselhaft und es windig .
+dev/24June_2011_Friday_tagesschau-4071|morgen scheint die sonne wolken die sonne wolken und morgen mal die sonne .
+dev/24June_2011_Friday_tagesschau-4073|morgen schwacher bis mäßiger wind aus west bis mäßig an der nordsee wind aus west bis südwest .
+dev/05September_2009_Saturday_tagesschau-4078|und nun die wettervorhersage für morgen dienstag den fünfundzwanzigsten april .
+dev/19February_2010_Friday_tagesschau-4101|am tag ist es wechselhaft und es wechselhaft .
+dev/10April_2010_Saturday_tagesschau-4140|am tag minus vier grad im breisgau bis minus vier grad im breisgau .
+dev/07December_2010_Tuesday_tagesschau-4152|am tag minus vier grad im nordosten und minus vier grad .
+dev/18September_2010_Saturday_tagesschau-4197|am freitag ist es meist freundlich im westen und am oberrhein .
+dev/08December_2009_Tuesday_heute-4211|und nun die wettervorhersage für morgen samstag den vierten .
+dev/08December_2009_Tuesday_heute-4212|am tag minus fünf grad im breisgau bis minus vier grad .
+dev/08December_2009_Tuesday_heute-4213|und es wird es auch noch ein bisschen kühler .
+dev/29September_2011_Thursday_heute-4235|und nun die wettervorhersage für morgen samstag den fünfundzwanzigsten .
+dev/26August_2010_Thursday_tagesschau-4265|und nun die wettervorhersage für morgen dienstag den fünfundzwanzigsten april .
+dev/24October_2009_Saturday_tagesschau-4283|am freitag ist es im osten und osten und es .
+dev/24October_2009_Saturday_tagesschau-4284|im osten und osten und osten und in der südosthälfte .
+dev/24October_2009_Saturday_tagesschau-4285|in der nacht ist es im osten und osten und in der südosthälfte bleibt es trocken .
+dev/31May_2011_Tuesday_tagesschau-4294|und nun die wettervorhersage für morgen samstag den alpen .
+dev/31May_2011_Tuesday_tagesschau-4295|im norden und osten und osten und osten und in der mitte und im osten und osten und osten und osten und osten und osten und osten und osten und
+dev/13July_2010_Tuesday_tagesschau-4317|im norden und osten und osten und osten und im osten und osten und osten und osten und osten und osten und osten und osten und osten und gewitter .
+dev/22June_2011_Wednesday_heute-4381|und nun die wettervorhersage für morgen samstag den bergen auch in der mitte und im westen und westen und westen und westen und westen wird es auch auch auch auch
+dev/23August_2010_Monday_tagesschau-4429|im norden und nordwesten regnet es im osten und osten und osten und osten und osten und osten und osten und osten und osten und osten und osten und osten
+dev/23August_2010_Monday_tagesschau-4430|und auch am alpenrand .
+dev/23August_2010_Monday_tagesschau-4438|am samstag ist es im osten und osten und es wird .
+dev/29June_2011_Wednesday_tagesschau-4482|und nun die wettervorhersage für morgen dienstag den bergen .
+dev/09February_2010_Tuesday_tagesschau-4495|am tag regnet es im osten und osten und in der mitte und im osten und osten .
+dev/09February_2010_Tuesday_tagesschau-4496|und auch schnee .
+dev/09February_2010_Tuesday_tagesschau-4497|am tag ist es im westen .
+dev/01July_2009_Wednesday_tagesschau-4555|morgen regnet es im norden und osten und osten und im osten und osten und osten und osten und osten .
+dev/11October_2010_Monday_tagesschau-4607|im osten und osten und osten und in der nacht ist es auch mal wolken .
+dev/11October_2010_Monday_tagesschau-4612|am tag minus vier grad im osten und minus vier grad .
+dev/11October_2010_Monday_tagesschau-4615|am freitag ist es im westen und osten und am samstag im osten und osten und osten und osten und osten und osten .
+dev/30November_2010_Tuesday_tagesschau-4617|in der nacht gibt es heute nacht auch in der mitte und in der mitte und in der mitte .
+dev/30November_2010_Tuesday_tagesschau-4618|in der nacht gibt es im westen und osten und osten und in der südosthälfte ist es auch mal .
+dev/30November_2010_Tuesday_tagesschau-4620|heute nacht gibt es heute nacht im norden und osten und osten und in der südosthälfte ist es trocken .
+dev/30November_2010_Tuesday_tagesschau-4621|am tag scheint die sonne mal wolken die sonne .
+dev/01February_2011_Tuesday_heute-4637|im osten und westen und westen und in der mitte und im osten und westen und westen und osten und osten und osten und osten und da wird es auch
+dev/28September_2009_Monday_tagesschau-4679|heute nacht minus vier grad an der ostsee und minus vier grad .
+dev/28September_2009_Monday_tagesschau-4680|am tag regnet es im osten und osten und im osten und osten und osten und osten und osten und minus vier grad .
+dev/19March_2011_Saturday_tagesschau-4690|am tag ist es im westen und westen und es wird es auch mal sonne mal wolken und auch mal sonne .
+dev/19March_2011_Saturday_tagesschau-4697|in der nacht ist es meist freundlich .
+dev/05December_2009_Saturday_tagesschau-4701|und nun die wettervorhersage für morgen dienstag den bergen auch am oberrhein und im westen und westen und osten und osten und osten und osten und minus zwei grad .
+dev/21January_2011_Friday_tagesschau-4890|im norden und osten und osten und osten und im osten und osten und osten und osten .
+dev/21November_2009_Saturday_tagesschau-4905|im osten und osten und osten und osten und in der mitte und im osten und osten und osten und osten und osten und osten und osten und osten und
+dev/21November_2009_Saturday_tagesschau-4906|am tag mäßiger wind weht schwach bis mäßig an der nordsee und stürmische böen .
+dev/21November_2009_Saturday_tagesschau-4911|am samstag ist es wechselhaft und es wechselhaft und es wird es auch mal sonne .
+dev/25April_2010_Sunday_tagesschau-4942|am tag gibt es im westen und osten und es wird es auch am alpenrand und auch mal sonne .
+dev/25April_2010_Sunday_tagesschau-4951|am samstag ist es am sonntag im westen und am oberrhein .
+dev/25April_2010_Sunday_tagesschau-4952|am samstag ist es im osten und osten und auch mal .
+dev/22March_2011_Tuesday_tagesschau-4956|heute nacht gibt es heute nacht im norden und osten und osten und in der südosthälfte ist es auch mal sonne .
+dev/01February_2011_Tuesday_tagesschau-4975|im osten und osten und osten und in der südosthälfte .
+dev/01February_2011_Tuesday_tagesschau-4976|am freitag ist es im norden und osten und am samstag ist es auch mal freundlich .
+dev/28February_2011_Monday_tagesschau-4984|schwacher bis mäßiger wind weht schwach bis mäßig an der nordsee bis mäßig an der nordsee bis mäßig .
+dev/01June_2010_Tuesday_tagesschau-5002|und nun die wettervorhersage für morgen dienstag den fünfundzwanzigsten juli .
+dev/10March_2011_Thursday_tagesschau-5086|am sonntag im osten und südosten noch etwas regen im osten und osten und osten und osten und osten und im osten und osten und osten und osten und osten
+dev/24December_2010_Friday_tagesschau-5128|und auch in der nacht regnet es im osten und osten und osten .
+dev/24December_2010_Friday_tagesschau-5129|und nun die wettervorhersage für morgen samstag den bergen .
+dev/31August_2010_Tuesday_tagesschau-5174|schwacher bis mäßiger wind weht schwach bis mäßig an der nordsee .
+dev/15September_2010_Wednesday_tagesschau-5209|am samstag regnet es im norden und osten und im osten und osten und osten und osten und osten und osten und osten und osten und im osten und osten
+dev/15September_2010_Wednesday_tagesschau-5210|am freitag ist es im norden und osten und im osten und osten und osten und süden und süden ist es trocken .
+dev/16May_2010_Sunday_tagesschau-5227|im norden gibt es heute nacht regnet es im osten und osten und osten und osten und osten und osten und osten und osten und nordwesten .
+dev/20July_2010_Tuesday_heute-5251|und nun die wettervorhersage für morgen samstag den fünfundzwanzigsten juli .
+dev/27July_2010_Tuesday_heute-5261|ihnen einen schönen abend und machen sie es gut .
+dev/23August_2010_Monday_heute-5319|und nun die wettervorhersage für morgen samstag den alpen .
+dev/23August_2010_Monday_heute-5320|und auch am alpenrand und im westen und osten und im osten und osten und osten und osten und osten und osten .
+dev/23August_2010_Monday_heute-5321|im osten und osten und osten und osten und auch schnee .
+dev/08October_2009_Thursday_tagesschau-5348|heute nacht regnet es im norden und osten und in der südosthälfte fällt regen .
+dev/08October_2009_Thursday_tagesschau-5349|in der nacht regnet es im osten und osten .
+dev/08October_2009_Thursday_tagesschau-5350|im norden und osten und osten und osten und in der südosthälfte regen .
+dev/08October_2009_Thursday_tagesschau-5351|am tag regnet es im osten und osten und im osten und osten und osten und osten und osten und osten und süden und osten und süden und süden und
+dev/07December_2011_Wednesday_tagesschau-5399|am tag regnet es im osten und osten und im osten und osten und osten und osten .
+dev/10December_2011_Saturday_tagesschau-5420|am freitag wird es wechselhaft und es wechselhaft .
+dev/10December_2011_Saturday_tagesschau-5421|am freitag ist es windig .
+dev/10December_2011_Saturday_tagesschau-5422|am sonntag regnet es im osten und osten und im osten .
+dev/10December_2011_Saturday_tagesschau-5423|am samstag ist es auch mal mehr mal mal mal mehr mal mal sonne .
+dev/21November_2011_Monday_heute-5433|im norden und osten und osten und osten und in der mitte und in der mitte und in der mitte .
+dev/21November_2011_Monday_heute-5434|am tag im westen und osten und in der nacht nur am alpenrand und minus fünf grad .
+dev/22November_2009_Sunday_tagesschau-5490|heute nacht minus vier grad an der ostsee und minus vier grad .
+dev/23July_2011_Saturday_tagesschau-5498|und nun die wettervorhersage für morgen samstag den bergen .
+dev/08June_2010_Tuesday_tagesschau-5527|heute nacht minus vier grad im osten und minus vier grad .
+dev/06October_2011_Thursday_heute-5532|ihnen einen schönen abend und machen sie es gut .
+dev/17January_2010_Sunday_tagesschau-5554|im norden und osten und nordwesten gebietsweise regen im osten und osten und osten und osten und osten und osten und osten und osten und osten und osten und osten
+dev/17January_2010_Sunday_tagesschau-5555|im osten und osten und osten und in der mitte und im osten .
+dev/18November_2009_Wednesday_tagesschau-5583|heute nacht gibt es heute nacht im osten und osten und osten und in der nacht .
+dev/18November_2009_Wednesday_tagesschau-5584|morgen wird es auch noch regen .
+dev/18November_2009_Wednesday_tagesschau-5585|und in der nacht ist es noch etwas schnee .
+dev/18November_2009_Wednesday_tagesschau-5586|und nun die wettervorhersage für morgen dienstag den bergen .
+dev/18November_2009_Wednesday_tagesschau-5587|im norden und osten und nordwesten teilweise stark bewölkt .
+dev/12December_2010_Sunday_tagesschau-5597|heute nacht gibt es im westen und osten und in der mitte und im norden und osten und osten und osten und osten und osten und osten und osten und
+dev/12December_2010_Sunday_tagesschau-5605|am tag minus vier grad im nordosten bis minus vier grad .
+dev/29November_2011_Tuesday_tagesschau-5612|in der nacht regnet es im norden und osten und in der mitte und im norden und osten und osten .
+dev/29November_2011_Tuesday_tagesschau-5619|heute nacht minus vier grad im osten und minus vier grad .
+dev/07December_2010_Tuesday_heute-5626|und nun die wettervorhersage für morgen samstag den alpen und auch in der mitte und im westen .
+dev/30March_2010_Tuesday_tagesschau-5694|und nun die wettervorhersage für morgen dienstag den fünfundzwanzigsten juli .
+dev/26March_2011_Saturday_tagesschau-5730|im norden und osten und nordwesten regen .
+dev/26March_2011_Saturday_tagesschau-5731|am freitag ist es meist freundlich und es meist freundlich .
+dev/30November_2009_Monday_tagesschau-5749|im norden und osten und osten und osten und in der mitte und im osten und osten und osten und osten und osten .
+dev/30November_2009_Monday_tagesschau-5755|morgen temperaturen zwischen minus zwei grad an der ostsee und minus vier grad .
+dev/26October_2010_Tuesday_tagesschau-5789|am samstag im norden und osten und osten und am nachmittag einzelne schauer .
+dev/26October_2010_Tuesday_tagesschau-5796|in der nacht ist es windig .
+dev/12December_2011_Monday_heute-5806|und nun die wettervorhersage für morgen samstag den bergen wind aus west .
+dev/26November_2011_Saturday_tagesschau-5848|im norden weht der wind schwach bis mäßig an der nordsee auch frisch .
+dev/09August_2010_Monday_heute-5905|und nun die wettervorhersage für morgen freitag den zweiundzwanzigsten oktober .
+dev/09August_2010_Monday_heute-5906|ihnen einen schönen abend und machen sie es gut .
+dev/16December_2009_Wednesday_tagesschau-5918|am freitag ist es im westen und westen gebietsweise regen .
+dev/04October_2010_Monday_heute-5945|ihnen einen schönen abend und machen sie es gut .
+dev/04October_2010_Monday_heute-5954|am tag minus zwei grad am oberrhein und minus vier grad .
+dev/25August_2010_Wednesday_heute-6001|heute nacht gibt es im osten und osten und in der mitte und im osten und osten und osten und osten und osten und osten und osten und osten und
+dev/25August_2010_Wednesday_heute-6008|und nun die wettervorhersage für morgen samstag den siebten .
+dev/25August_2010_Wednesday_heute-6009|ihnen einen schönen abend und machen sie es gut .
+dev/07April_2010_Wednesday_tagesschau-6029|im norden und osten und nordwesten einzelne schauer im osten und nordwesten auch gewitter .
+dev/13February_2010_Saturday_tagesschau-6036|und nun die wettervorhersage für morgen dienstag den fünfundzwanzigsten juli .
+dev/13February_2010_Saturday_tagesschau-6044|am freitag ist es am samstag im westen und morgen mal sonne mal wolken und sonne .
+dev/24September_2009_Thursday_heute-6077|am tag regnet es im osten und osten und im osten und osten und osten und osten und osten und osten und osten und osten und im westen und osten
+dev/16February_2010_Tuesday_tagesschau-6098|im osten und osten und osten und osten und im osten und osten und osten und osten und osten und osten und osten und osten und osten und osten und
+dev/27October_2009_Tuesday_tagesschau-6148|im norden und osten und nordwesten regen im norden und osten und osten und osten und osten und osten und osten und osten und osten und osten und osten und
+dev/26July_2010_Monday_tagesschau-6256|und nun die wettervorhersage für morgen dienstag den fünfundzwanzigsten juli .
+dev/16September_2010_Thursday_tagesschau-6271|am dienstag ist es im norden und osten und es im westen .
+dev/16September_2010_Thursday_tagesschau-6272|am tag regnet es im norden und osten und im osten und osten und osten und osten und osten .
+dev/16September_2010_Thursday_tagesschau-6276|heute nacht gibt es heute nacht im osten und osten und in der nacht nur am tag im osten und osten und osten und osten und osten und osten und
+dev/30November_2011_Wednesday_tagesschau-6289|am tag minus fünf grad im westen und minus vier grad .
+dev/30November_2011_Wednesday_tagesschau-6291|am samstag ist es wechselhaft und es gut .
+dev/30November_2011_Wednesday_tagesschau-6292|am freitag ist es im westen und westen und am samstag im norden und osten und osten und osten und osten und osten und osten und osten und auch windig
+dev/10August_2011_Wednesday_tagesschau-6303|am tag dreizehn grad im osten und am oberrhein .
+dev/10August_2011_Wednesday_tagesschau-6304|am tag regnet es im osten und osten und im osten und osten und osten und osten und osten und osten und osten und osten und osten und im osten
+dev/10August_2011_Wednesday_tagesschau-6305|am sonntag im norden und westen und am alpenrand und am oberrhein .
+dev/17February_2011_Thursday_tagesschau-6307|im westen gibt es auch mal wolken und es wird es auch im osten und osten und osten und osten und osten und osten und osten und osten und osten
+dev/24January_2013_Thursday_tagesschau-6323|am tag regnet es im osten und osten und im osten und osten und osten und osten und osten .
+dev/24January_2013_Thursday_tagesschau-6327|heute nacht gibt es im osten und osten und im osten und osten und osten und osten und osten und osten und osten und im osten und osten und osten
+dev/30January_2011_Sunday_tagesschau-6345|und nun die wettervorhersage für morgen dienstag den fünfundzwanzigsten juli .
+dev/10January_2011_Monday_tagesschau-6404|heute nacht gibt es im norden und osten und in der mitte und im norden und osten und osten .
+dev/10January_2011_Monday_tagesschau-6409|heute nacht minus vier grad an der ostsee und minus vier grad .
+dev/05April_2011_Tuesday_tagesschau-6420|in der nacht ist es meist freundlich und es meist freundlich .
+dev/06May_2011_Friday_tagesschau-6438|am freitag ist es im westen und westen und es wird es auch mal etwas kühler .
+dev/04July_2011_Monday_heute-6440|und nun die wettervorhersage für morgen dienstag den fünfundzwanzigsten juli .
+dev/04July_2011_Monday_heute-6441|und es wird es auch noch .
+dev/23May_2011_Monday_heute-6459|in der nacht gibt es im westen und westen bleibt es auch wieder kühler .
+dev/23May_2011_Monday_heute-6461|heute nacht gibt es heute nacht im osten und osten und osten und in der südosthälfte .
+dev/23May_2011_Monday_heute-6466|und nun die wettervorhersage für morgen samstag den neunten .
+dev/23September_2010_Thursday_heute-6476|und nun die wettervorhersage für morgen samstag den alpen und minus zwei grad .
+dev/29January_2010_Friday_tagesschau-6489|morgen wird es auch am alpenrand und morgen dienstag den bergen .
+dev/29January_2010_Friday_tagesschau-6490|im norden und nordwesten im norden und osten und osten und im norden und osten und osten und osten und osten und osten und osten und osten und osten und
+dev/03November_2010_Wednesday_tagesschau-6505|im osten und osten und osten und in der nacht .
+dev/03November_2010_Wednesday_tagesschau-6506|im norden weht der wind schwach bis mäßig an der nordsee auch frisch im norden und osten und osten und osten und osten und osten und osten und osten und
+dev/03November_2010_Wednesday_tagesschau-6507|heute nacht minus vier grad an der ostsee und minus vier grad .
+dev/20June_2011_Monday_heute-6514|und nun die wettervorhersage für morgen dienstag den vierten .
+dev/20June_2011_Monday_heute-6521|in der nacht gibt es im osten und osten und in der mitte und im osten und osten und osten und osten und osten und osten und osten und osten
+dev/16December_2011_Friday_tagesschau-6529|in der nacht regnet es im osten und osten und im osten und osten und osten und osten und osten und osten und osten und osten und gewitter .
+dev/16December_2011_Friday_tagesschau-6532|morgen regnet es im norden und osten und osten und im norden und osten und osten und osten und osten und osten und osten und osten und osten und osten
+dev/16April_2010_Friday_tagesschau-6577|heute nacht gibt es heute nacht im westen und westen und osten und osten und in der mitte und süden und in der nacht ist es auch im westen .
+dev/12September_2009_Saturday_tagesschau-6589|und nun die wettervorhersage für morgen tag den alpen .
+dev/12September_2009_Saturday_tagesschau-6590|heute nacht regnet es im norden und osten und im osten und osten und osten und osten .
+dev/12September_2009_Saturday_tagesschau-6591|am tag regnet es im osten und osten und im osten und osten und osten und osten und osten und osten und osten und osten und osten und süden und
+dev/24July_2011_Sunday_tagesschau-6621|und nun die wettervorhersage für morgen dienstag den vierten juli .
+dev/24July_2011_Sunday_tagesschau-6622|und auch am sonntag ist es auch mal sonne .
+dev/01April_2010_Thursday_heute-6697|und nun die wettervorhersage für morgen samstag den fünfundzwanzigsten .
+dev/01April_2010_Thursday_heute-6698|am tag im westen und westen und in der nacht auch am oberrhein .
+dev/12November_2009_Thursday_tagesschau-6770|in der nacht regnet es im osten und osten und osten und in der mitte und regen .
+dev/12November_2009_Thursday_tagesschau-6771|im norden und osten und osten und osten und in der südosthälfte bleibt es trocken .
+dev/12November_2009_Thursday_tagesschau-6772|in der nacht regnet es im osten und osten und in der südosthälfte .
+dev/02June_2010_Wednesday_heute-6796|am samstag wird es auch am samstag im westen und am samstag .
+dev/13December_2009_Sunday_tagesschau-6822|im norden und osten und nordwesten nur im osten und osten und osten und osten und osten und osten und osten und osten und im osten und osten und osten
+dev/06December_2011_Tuesday_tagesschau-6842|im norden und osten und osten und osten und im osten und osten und osten und osten und osten und osten und osten und osten und osten und osten und
+dev/06July_2011_Wednesday_tagesschau-6870|am tag minus vier grad im breisgau bis minus vier grad im osten und osten und osten und osten und osten und minus vier grad .
+dev/10August_2009_Monday_heute-6891|und nun die wettervorhersage für morgen samstag den bergen auch im westen und westen und westen und osten und osten und osten und osten und auch auch auch noch auch
+dev/10August_2009_Monday_heute-6892|und auch in der südosthälfte regen .
+dev/06February_2011_Sunday_tagesschau-6914|heute nacht gibt es im norden und osten und im norden und osten und osten und osten und osten und osten und osten und osten und im osten und osten
+dev/06February_2011_Sunday_tagesschau-6917|am tag minus zwei grad im osten und minus vier grad .
+dev/24January_2011_Monday_heute-6980|morgen temperaturen von minus zwei grad im westen und minus vier grad .
+dev/24January_2011_Monday_heute-6983|im osten und osten und osten und osten und im osten und osten und osten und osten und osten und osten und osten und osten und es wird es auch
+dev/24January_2011_Monday_heute-6984|am freitag wird es auch am samstag im westen und westen und am samstag ist es auch mal mehr mal sonne .
+dev/17January_2011_Monday_tagesschau-7001|im norden und osten und osten und osten und in der mitte und im osten und osten .
+dev/17January_2011_Monday_tagesschau-7003|im osten und osten und osten und osten und in der südosthälfte regen .
+dev/20September_2010_Monday_tagesschau-7029|und es wird es auch mal mehr mal mal mal mehr mal mal sonne .
+dev/29November_2009_Sunday_tagesschau-7043|morgen gibt es heute nacht im norden und osten und osten und in der südosthälfte fällt regen .
+dev/03March_2011_Thursday_tagesschau-7064|am tag minus vier grad im osten und minus vier grad .
+dev/19January_2011_Wednesday_tagesschau-7068|und nun die wettervorhersage für morgen dienstag den fünfundzwanzigsten juli .
+dev/25August_2009_Tuesday_tagesschau-7090|heute nacht weht der wind schwach bis mäßig an der nordsee .
+dev/25August_2009_Tuesday_tagesschau-7091|morgen schwacher bis mäßiger wind aus west bis mäßig an der nordsee .
+dev/25August_2009_Tuesday_tagesschau-7093|morgen temperaturen zwischen minus zwei grad an der ostsee und minus vier grad .
+dev/25August_2009_Tuesday_tagesschau-7094|am tag im norden und osten und osten und im osten und osten und osten und osten und osten und süden und süden und süden und süden und süden und
+dev/09July_2009_Thursday_tagesschau-7110|und nun die wettervorhersage für morgen dienstag den fünfundzwanzigsten juli .
+dev/09July_2009_Thursday_tagesschau-7122|am samstag ist es im norden und osten und im osten und osten und osten und osten und osten und osten und osten und osten und im westen und osten
+dev/30March_2011_Wednesday_tagesschau-7127|am samstag gibt es im westen und osten und es wird es auch am alpenrand .
+dev/30March_2011_Wednesday_tagesschau-7130|im osten und osten und osten und osten und in der südosthälfte regen .
+dev/31October_2009_Saturday_tagesschau-7147|heute nacht heute nacht minus vier grad im nordosten und osten und osten und minus vier grad .
+dev/02June_2010_Wednesday_tagesschau-7160|heute nacht minus vier grad im osten und minus vier grad im osten und osten und osten und osten und minus vier grad .
+dev/01May_2010_Saturday_tagesschau-7197|am freitag regnet es im norden und osten und im osten und osten und osten und osten und süden .
+dev/04July_2010_Sunday_tagesschau-7198|und nun die wettervorhersage für morgen dienstag den fünfundzwanzigsten juli .
+dev/04July_2010_Sunday_tagesschau-7199|im osten und westen und osten und osten und in der mitte und im osten und osten und osten und osten und osten und osten und osten und osten und
+dev/10November_2009_Tuesday_tagesschau-7250|am freitag ist es im westen und westen und es wird es auch mal sonne .
+dev/24January_2013_Thursday_heute-7254|und nun die wettervorhersage für morgen samstag den vierten .
+dev/24January_2013_Thursday_heute-7265|am tag im norden und osten und in der nacht nur im osten und osten und osten und osten und osten und minus zwei grad .
+dev/26April_2010_Monday_tagesschau-7271|heute nacht gibt es im osten und osten und in der nacht .
+dev/26April_2010_Monday_tagesschau-7273|im osten und osten und osten und osten und im osten und osten und osten und osten und osten und osten und osten und osten und osten und osten und
+dev/20March_2010_Saturday_heute-7288|morgen gibt es im osten und osten und osten und auch mal ein paar tropfen .
+dev/20March_2010_Saturday_heute-7296|im westen wird es auch im westen und westen und in der mitte und wind aus west bis südwest .
+dev/20March_2010_Saturday_heute-7297|im osten und osten und osten und in der südosthälfte regen .
+dev/27June_2010_Sunday_tagesschau-7386|am freitag ist es noch regen im westen und osten und am samstag ist es etwas regen .
+dev/04January_2010_Monday_heute-7399|heute nacht minus zwei grad im westen und minus zwei grad .
+dev/04January_2010_Monday_heute-7401|in der nacht gibt es im osten und osten und in der mitte und in der nacht .
+dev/29July_2010_Thursday_tagesschau-7411|und in der nacht gibt es im osten und osten und osten und in der nacht ist es auch im osten .
+dev/15February_2011_Tuesday_tagesschau-7468|und nun die wettervorhersage für morgen dienstag den fünfundzwanzigsten juli .
+dev/10December_2009_Thursday_tagesschau-7482|und nun die wettervorhersage für morgen dienstag den fünfundzwanzigsten april .
+dev/28May_2010_Friday_tagesschau-7496|und in der nacht gibt es im osten und osten und osten und süden und nun die wettervorhersage für süden ist es auch noch freundlich .
+dev/13July_2009_Monday_tagesschau-7513|im norden und nordwesten einzelne schauer und gewitter im norden und nordwesten auch im norden und osten und osten und osten und osten und osten und osten und osten und
+dev/16July_2011_Saturday_tagesschau-7524|heute nacht gibt es heute nacht im norden und osten und osten und nordwesten und im norden und osten und osten und osten und osten und osten und osten und
+dev/09February_2011_Wednesday_heute-7538|heute nacht gibt es heute nacht im osten und osten und osten und in der mitte und im osten und osten und osten und osten und osten und osten und
+dev/23September_2009_Wednesday_tagesschau-7582|und nun die wettervorhersage für morgen samstag den bergen ist es auch mal mehr wolken und es wird .
+dev/23September_2009_Wednesday_tagesschau-7583|im norden und osten und osten und in der südosthälfte regen .
+dev/23September_2009_Wednesday_tagesschau-7593|am sonntag regnet es im osten und osten und am sonntag .
+dev/09April_2010_Friday_tagesschau-7623|und nun die wettervorhersage für morgen dienstag den fünfundzwanzigsten juli .
+dev/09April_2010_Friday_tagesschau-7632|heute nacht minus vier grad an der ostsee und minus vier grad .
+dev/03October_2012_Wednesday_tagesschau-7651|und nun die wettervorhersage für morgen dienstag den fünfundzwanzigsten juli .
+dev/03October_2012_Wednesday_tagesschau-7655|im norden und osten und osten und in der südosthälfte .
+dev/03October_2012_Wednesday_tagesschau-7656|morgen scheint die sonne mal wolken und die sonne .
+dev/03October_2012_Wednesday_tagesschau-7657|im norden und nordwesten regen .
+dev/29June_2010_Tuesday_tagesschau-7704|am tag regnet es im norden und osten und wind aus west .
+dev/29June_2010_Tuesday_tagesschau-7705|heute nacht minus vier grad am oberrhein und minus vier grad .
+dev/15October_2009_Thursday_tagesschau-7719|morgen temperaturen zwischen minus zwei grad im osten und minus vier grad .
+dev/06January_2010_Wednesday_tagesschau-7726|heute nacht gibt es im osten und osten und im osten und osten und osten und osten und osten und osten und osten und osten und osten und im osten
+dev/11February_2011_Friday_tagesschau-7755|am tag regnet es im osten und osten und morgen im osten und osten und osten und osten .
+dev/25January_2013_Friday_tagesschau-7813|am tag regnet es im westen und osten und im osten und osten und osten und osten und osten und osten und osten und osten und osten und gewitter .
+dev/25January_2013_Friday_tagesschau-7815|am tag regnet es im norden und osten und im osten und osten und osten und osten und osten und osten und osten und osten und da regnet es .
+dev/23January_2011_Sunday_tagesschau-7834|am freitag regnet es im osten und osten und am samstag .
+dev/05February_2011_Saturday_tagesschau-7855|heute nacht regnet es im norden und osten und an der nordsee .
+dev/26May_2010_Wednesday_heute-7867|morgen regnet es im osten und osten und in der südosthälfte fällt regen .
+dev/20July_2010_Tuesday_tagesschau-7877|und nun die wettervorhersage für morgen donnerstag den bergen auch in der mitte und im westen und westen .
+dev/20July_2010_Tuesday_tagesschau-7883|heute nacht minus vier grad im osten und minus vier grad im breisgau .
+dev/13May_2010_Thursday_tagesschau-7916|und nun die wettervorhersage für morgen dienstag den fünfundzwanzigsten april .
+dev/13May_2010_Thursday_tagesschau-7926|am tag scheint die sonne mal wolken .
+dev/04February_2010_Thursday_heute-7966|und auch am alpenrand und auch am alpenrand bis minus zwei grad .
+dev/04February_2010_Thursday_heute-7970|im norden und osten und osten und osten und im osten und osten und osten und osten und osten und osten und osten und osten und osten und osten und
+dev/02December_2011_Friday_tagesschau-8009|heute nacht regnet es im osten und osten und im osten und osten und osten und osten und osten .
+dev/02December_2011_Friday_tagesschau-8010|im norden und nordwesten fällt regen .
+dev/21July_2009_Tuesday_tagesschau-8061|am tag ist es auch mal ein paar tropfen .
+dev/21July_2009_Tuesday_tagesschau-8062|im norden und nordwesten regen .
+dev/16January_2010_Saturday_tagesschau-8073|im norden und westen und osten und osten und im osten und osten und osten und osten und osten und osten und osten und osten und osten und osten und
+dev/29November_2011_Tuesday_heute-8095|und nun die wettervorhersage für morgen sonntag den fünfundzwanzigsten .
+dev/07April_2011_Thursday_tagesschau-8102|im norden und westen deutschlands für morgen samstag den bergen auch frisch im norden und osten und osten und osten und osten und osten und osten und osten und osten
+dev/29March_2011_Tuesday_tagesschau-8117|heute nacht gibt es im osten und osten und im osten und osten und osten und osten und osten .
+dev/27May_2011_Friday_tagesschau-8122|morgen wird es auch noch freundlich .
+dev/27May_2011_Friday_tagesschau-8133|am freitag ist es im norden und osten und am samstag ist es windig .
+dev/11January_2011_Tuesday_heute-8176|am tag regnet es im osten und osten und im osten und osten und osten und osten und osten und auch schnee .
+dev/22July_2010_Thursday_tagesschau-8194|und nun die wettervorhersage für morgen dienstag den fünfundzwanzigsten juli .
+dev/22July_2010_Thursday_tagesschau-8195|in der nacht regnet es im osten und osten und in der mitte und in der nacht .
+dev/09June_2010_Wednesday_heute-8266|am freitag wird es auch am freitag im westen und westen und am freitag ist es auch mal etwas regen .
+dev/12December_2011_Monday_tagesschau-8281|am tag minus fünf grad im osten und osten und in der nacht .
+dev/12December_2011_Monday_tagesschau-8282|am freitag ist es windig .
+dev/25January_2010_Monday_tagesschau-8298|und nun die wettervorhersage für morgen dienstag den fünfundzwanzigsten april .
+dev/25January_2010_Monday_tagesschau-8305|am sonntag ist es im norden und osten und wind aus west .
+dev/29March_2010_Monday_tagesschau-8384|und nun die wettervorhersage für morgen dienstag den fünfundzwanzigsten juli .
+dev/03September_2010_Friday_tagesschau-8423|und nun die wettervorhersage für morgen donnerstag den bergen .
+dev/03September_2010_Friday_tagesschau-8424|am tag minus vier grad im osten und osten und am oberrhein .
+dev/03September_2010_Friday_tagesschau-8432|am tag im norden und osten und in der nacht minus vier grad .
+dev/02December_2010_Thursday_heute-8444|ihnen einen schönen abend und machen sie es gut .
+dev/02December_2010_Thursday_heute-8445|und auch morgen früh im westen und westen und in der mitte und im westen und westen und osten und osten und osten und osten und osten und osten und
+dev/17May_2010_Monday_tagesschau-8473|im norden und osten und osten und osten und in der südosthälfte .
+dev/17May_2010_Monday_tagesschau-8477|am freitag ist es im westen und westen und es im westen ist es im süden und osten und osten und osten und süden und süden und süden und süden
+dev/13August_2009_Thursday_tagesschau-8487|schwacher wind weht schwach bis mäßig an der nordsee auch frisch .
+dev/20October_2010_Wednesday_heute-8493|ihnen einen schönen abend und machen sie es gut .
+dev/20October_2010_Wednesday_heute-8494|und nun die wettervorhersage für morgen samstag den bergen .
+dev/20October_2010_Wednesday_heute-8501|im osten und osten und osten und osten und in der mitte und im osten und osten und osten und osten und osten und osten und osten und osten und
+dev/28July_2011_Thursday_tagesschau-8521|im osten und westen und westen und osten und in der mitte und im westen und westen und westen auch regen .
+dev/29September_2009_Tuesday_tagesschau-8538|im norden weht der wind schwach bis mäßig an der ostsee und im norden weht er mäßig .
+dev/09May_2011_Monday_tagesschau-8583|morgen temperaturen von minus zwei grad am oberrhein und minus vier grad .
+dev/09May_2011_Monday_tagesschau-8585|am samstag ist es im norden und osten und im westen .
+dev/09May_2011_Monday_tagesschau-8586|am freitag wird es wechselhaft und es wechselhaft .
+dev/30July_2011_Saturday_tagesschau-8591|im norden und osten und osten und osten und in der mitte und im norden und osten und osten und osten und osten und osten und osten und osten und
+dev/13November_2009_Friday_tagesschau-8610|heute nacht minus vier grad im osten und minus vier grad im osten und osten und osten und osten und minus fünf grad .
+dev/29April_2010_Thursday_heute-8622|und nun die wettervorhersage für morgen samstag den neunten .
+dev/29April_2010_Thursday_heute-8623|morgen temperaturen zwischen minus fünf grad .
+dev/29April_2010_Thursday_heute-8625|im osten und osten und osten und osten und im osten und osten und osten und osten und osten und osten und osten und osten und da wird es auch
+dev/11April_2010_Sunday_tagesschau-8639|im norden und nordwesten fällt regen im norden und nordwesten auch frisch .
+dev/11December_2010_Saturday_tagesschau-8657|und nun die wettervorhersage für morgen dienstag den fünfundzwanzigsten april .
+dev/11December_2010_Saturday_tagesschau-8659|morgen scheint die sonne wolken die sonne wolken die sonne .
+dev/24January_2010_Sunday_tagesschau-8710|im norden weht der wind schwach bis mäßig an der ostsee und im norden weht er mäßig .
+dev/15July_2011_Friday_tagesschau-8726|am tag minus vier grad am oberrhein und minus vier grad .
+dev/06October_2012_Saturday_tagesschau-8729|und nun die wettervorhersage für morgen dienstag den fünfundzwanzigsten april .
+dev/06October_2012_Saturday_tagesschau-8730|morgen früh gibt es heute nacht noch regen .
+dev/06October_2012_Saturday_tagesschau-8744|am freitag ist es im osten und osten und es wird es .
+dev/23March_2011_Wednesday_tagesschau-8751|im norden und nordwesten gebietsweise regen im norden und nordwesten auch mal sonne mal wolken und wolken und im osten und osten und osten und osten und osten und osten
+dev/27January_2013_Sunday_tagesschau-8836|heute nacht gibt es im osten und osten und im osten und osten und osten und osten und osten und osten und im osten und osten und osten und osten
